@@ -1,0 +1,1 @@
+This is CleanCut theme for Wordpress.
